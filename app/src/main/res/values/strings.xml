@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FormularioEdicion</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_descripcion">Descripcion del contacto</string>
+    <string name="hint_calendar">Fecha de nacimiento</string>
+    <string name="titulo">Confirmar datos</string>
+    <string name="btn_editar">Editar Datos</string>
+
+    <!--PARAMETROS-->
+
+    <string name="pnombre">nombre</string>
+    <string name="p_fech_nac">fechaNac</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+</resources>

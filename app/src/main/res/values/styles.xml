@@ -1,0 +1,24 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="btn_siguiente" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:text">Siguiente</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:background">@color/colorAccent</item>
+
+    </style>
+
+    <style name="btn_editar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:text">Editar Datos</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:background">@color/colorAccent</item>
+
+    </style>
+
+</resources>
